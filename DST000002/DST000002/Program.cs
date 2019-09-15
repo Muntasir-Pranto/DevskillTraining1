@@ -6,7 +6,8 @@ namespace DST000002
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string name = "Dev Skill";
+            Console.WriteLine("This is" + name);
         }
     }
 }
